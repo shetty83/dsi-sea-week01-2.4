@@ -26,6 +26,3 @@ In this lab we're going to practice writing functions using if/else and loops.
 #### Starter code
 
 Here is a link to the [starter code notebook](./code/starter-code/w1-2.4-starter.ipynb).
-
-> [Solution Code](./code/solution-code/w1-2.4-solution.ipynb)
-
