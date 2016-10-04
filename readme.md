@@ -19,6 +19,7 @@ In this lab we're going to practice writing functions using if/else and loops.
 - Write a function that returns a sublist of movies with an IMDB score above 5.5. (HINT: you may want to but do not have to    reuse the function from question 0.)
 - Write a function that takes a category name and returns just those movies under that category.
 - Write a function that takes a list of movies and computes the average IMDB score.
+- Write a function that returns the top 3 most popular letters in all movie titles
 
 **Bonus:**
 - Write a function that takes a category and computes the average IMDB score (HINT: reuse the function from question 2.)
@@ -28,4 +29,3 @@ In this lab we're going to practice writing functions using if/else and loops.
 Here is a link to the [starter code notebook](./code/starter-code/w1-2.4-starter.ipynb).
 
 > [Solution Code](./code/solution-code/w1-2.4-solution.ipynb)
-
